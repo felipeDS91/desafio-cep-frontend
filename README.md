@@ -39,7 +39,9 @@
 
 Este é um ReactJS web client que utiliza uma API com cache para consulta de CEP.
 
-Para ver a **api** utilizada, clique aqui: [Consulta CEP Rest API](https://github.com/FelipeDS91/desafio-cep)
+Para acessar essa aplicação, clique aqui: [Desafio Consulta CEP](https://desafio-consulta-cep.netlify.app/)
+
+Para acessar a **api** utilizada nesse frontend, clique aqui: [Consulta CEP Rest API](https://github.com/FelipeDS91/desafio-cep)
 
 ## 🚀 Tecnologias utilizadas
 
