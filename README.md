@@ -10,25 +10,25 @@
 </h3>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/felipeDS91/desafio-cep-frontend?color=%23fbc131">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/felipeDS91/desafio-cep-frontend?color=%230484ff">
   
   <a href="https://www.linkedin.com/in/felipe-douglas-dev/" target="_blank" rel="noopener noreferrer">
-    <img alt="Made by" src="https://img.shields.io/badge/made%20by-felipe%20douglas-%23fbc131">
+    <img alt="Made by" src="https://img.shields.io/badge/made%20by-felipe%20douglas-%230484ff">
   </a>
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/felipeDS91/desafio-cep-frontend?color=%23fbc131">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/felipeDS91/desafio-cep-frontend?color=%230484ff">
   
   <a href="https://github.com/FelipeDS91/goldman-frontend/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/FelipeDS91/desafio-cep-frontend?color=%23fbc131">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/FelipeDS91/desafio-cep-frontend?color=%230484ff">
   </a>
 
   <a href="https://github.com/FelipeDS91/goldman-frontend/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/FelipeDS91/desafio-cep-frontend?color=%23fbc131">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/FelipeDS91/desafio-cep-frontend?color=%230484ff">
   </a>
 
 <p align="center">
-  <a href="#-about-the-project">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-technologies">Tecnologias utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-sobre-o-projeto">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias-utilizadas">Tecnologias utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
 </p>
 
